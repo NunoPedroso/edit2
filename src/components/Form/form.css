@@ -1,0 +1,16 @@
+
+.spinner{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.select{
+    display: block;
+    text-align: center;
+}
+
+.formSelect{
+    width: 300px;
+    margin: 0 auto;
+}
