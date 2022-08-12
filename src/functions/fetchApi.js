@@ -156,6 +156,7 @@ const fetchApi = async (url, myHeaders, method, body , alertBox) => {
                 console.error(info);
                 alert(info)
             }
+
             /*const errorMessageReact = () => {
                 return (
                     <>
